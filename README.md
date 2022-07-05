@@ -4373,7 +4373,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - petclinic.clarusway.us
+    - petclinic.cemilekaplan.com
     secretName: petclinic-tls
 ```
 
